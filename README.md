@@ -1,1 +1,3 @@
-# ajax-form
+#@ajax form
+
+**Plain Javascript && jQuery way to send emails with Sendgrid service
